@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 appena fatto il 
+=======
+sviluppo1
+>>>>>>> sviluppo1
